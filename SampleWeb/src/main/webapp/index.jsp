@@ -9,6 +9,10 @@
 <body>
 
 	<h2>Welcome to my First JSP web-page</h2>
+	
+	<div style="color: red">
+		<p>This is a para in Red !</p>
+	</div>
 
 </body>
 </html>
